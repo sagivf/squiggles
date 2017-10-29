@@ -3,6 +3,7 @@
 ## CMD
 - kill process `ps aux | grep node -> kill -9 16783` 
 - find process by port and kill: `lsof -n -i4TCP:[PORT] | grep LISTEN | awk '{ print $2 }' | xargs kill`
+- https://til.hashrocket.com/posts/e4c8c665a8-find-and-kill-all-processes-listening-on-a-port
 
 ## Mongo
 ```
