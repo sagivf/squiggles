@@ -1,7 +1,8 @@
 
+
 ## CMD
-- ps aux | grep node
-- kill -9 16783
+- kill process `ps aux | grep node -> kill -9 16783` 
+- find process by port and kill: `lsof -n -i4TCP:[PORT] | grep LISTEN | awk '{ print $2 }' | xargs kill`
 
 ## Mongo
 ```
