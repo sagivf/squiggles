@@ -4,7 +4,7 @@
 
 ### Awesome Education
 * [CORS](https://medium.com/statuscode/cors-a-guided-tour-4e72230a8739)
-* [Learn HTTP](https://egghead.io/lessons/tools-http-response-status-codes-2xx-success)
+* [Learn HTTP](httpsgit push://egghead.io/lessons/tools-http-response-status-codes-2xx-success)
 
 ### Awesome Node
 * [Nicer call stack](https://www.npmjs.com/package/callsite-record)
